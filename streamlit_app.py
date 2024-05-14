@@ -46,7 +46,7 @@ hover_data = ['name', 'primary_fuel', 'capacity_mw', 'owner', 'commissioning_yea
 
 
 
-]
+
 
  
 
