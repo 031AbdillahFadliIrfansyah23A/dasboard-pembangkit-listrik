@@ -40,7 +40,12 @@ st.sidebar.markdown(
 
  
 
-hover_data = ['name', 'primary_fuel', "capacity_mw", 'owner']
+hover_data = ['name', 'primary_fuel', "capacity_mw", 'owner', 'commissioning_year']
+
+
+
+
+]
 
  
 
